@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/stanlettee.github.io/homework-8react/static/css/main.81f5fc8c.css",
-    "main.js": "/stanlettee.github.io/homework-8react/static/js/main.bcc0976b.js",
-    "index.html": "/stanlettee.github.io/homework-8react/index.html",
-    "main.81f5fc8c.css.map": "/stanlettee.github.io/homework-8react/static/css/main.81f5fc8c.css.map",
-    "main.bcc0976b.js.map": "/stanlettee.github.io/homework-8react/static/js/main.bcc0976b.js.map"
+    "main.css": "/react-stickers/static/css/main.81f5fc8c.css",
+    "main.js": "/react-stickers/static/js/main.bcc0976b.js",
+    "index.html": "/react-stickers/index.html",
+    "main.81f5fc8c.css.map": "/react-stickers/static/css/main.81f5fc8c.css.map",
+    "main.bcc0976b.js.map": "/react-stickers/static/js/main.bcc0976b.js.map"
   },
   "entrypoints": [
     "static/css/main.81f5fc8c.css",
