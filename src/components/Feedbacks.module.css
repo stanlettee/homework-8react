@@ -1,0 +1,31 @@
+.title {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    text-align: center;
+    color: #333;
+}
+
+.list {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    padding: 0;
+    list-style: none;
+}
+
+
+.button {
+    padding: 0.5rem 1.2rem;
+    font-size: 1rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    background-color: #4caf50;
+    color: white;
+    transition: background-color 0.2s ease, transform 0.1s ease;
+}
+
+.button:hover {
+    background-color: #45a049;
+    transform: scale(1.05);
+}
